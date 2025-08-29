@@ -43,7 +43,7 @@ export const About = () => {
       >
         {/* Imagem */}
         <motion.img
-          src="public/perfil.png"
+          src="/perfil.png"
           alt="Foto de perfil"
           className="about-image"
           variants={fadeInUp}
