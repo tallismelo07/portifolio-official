@@ -62,7 +62,7 @@ export const Hero = () => {
               See my projects
             </motion.a>
             <motion.a
-              href="/TALLIS TEIXEIRA DE MELO CURRICULO.pdf" 
+              href="/cvTallis.pdf" 
               // download="TALLIS TEIXEIRA DE MELO CURRICULO.pdf"
               target="_blank"
               className="cta-secondary"
